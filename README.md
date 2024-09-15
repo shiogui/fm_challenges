@@ -9,4 +9,4 @@ As i go through the challenges, they will be posted here.
 ---------------------------------------------
 
 
-⚙️ QR Code Component (coded, not submitted)
+⚙️ [QR Code Component](https://shiogui.github.io/fm_challenges/0001_qr_code_component/index.html) (coded, not submitted)
